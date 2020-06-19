@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Mallikarjunarao-Git2025/nodejs-example-snipcart"
+    "url": "https://github.com/Mallikarjunarao-Git2025/nodejs-example-snipcart.git"
   },
   "devDependencies": {
     "eslint": "^4.8.0"
